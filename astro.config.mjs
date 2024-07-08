@@ -17,6 +17,6 @@ export default defineConfig({
     skipInline: false,
     drafts: true
   },
-  site: 'https://Ninitthemes.com',
+  site: 'https://ninit.net',
   integrations: [tailwind(), sitemap(), mdx(), devtoolBreakpoints()]
 });
